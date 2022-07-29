@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}.general{
+    grid-template-columns: 20% 78%;
+    display: grid;
+    background-color: black;
+    height: 100vh;
+    gap: 20px;
+    padding: 20px;
+    
+}
+.jeremy{
+    background-color: purple;
+    border-radius: 12px;
+}
+.report{
+    background-color: blueviolet;
+    color: white;
+    padding: 1rem;
+    border-radius: 12px;
+    height: 60%;
+}
+.day{
+    color: white;
+    padding: 1rem;
+}
+img{
+    border-radius: 50%;
+    border: white;
+}
+.work{
+    background-color: orange;
+    padding-top: 2rem;
+    width: 100%;
+    border-radius: 12px;
+}
+.purple{
+    background-color: purple;
+    color: white;
+    padding: 1rem;
+    height: 100%;
+    border-radius: 12px;
+}
+.purple p{
+    font-size: 20px;
+}
+.purple h2{
+    font-size: 100px;
+}
+.purple span{
+    padding-left: 220px;
+}
+.per{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+}
+.ex{
+    background-color: skyblue;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
+.play{
+    background-color: pink;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
+.study{
+    background-color: limegreen;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
+.social{
+    background-color: blueviolet;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
+.self{
+    background-color: yellow;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
